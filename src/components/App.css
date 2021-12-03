@@ -93,7 +93,7 @@
   flex-direction: column;
   align-items: stretch;
   justify-content: space-evenly;
-  flex-wrap: nowrap;  // css flex box 
+  flex-wrap: nowrap;
 }
 
 .card-header {
